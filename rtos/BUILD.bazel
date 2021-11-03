@@ -1,0 +1,18 @@
+constraint_setting(
+    name = "rtos",
+)
+
+constraint_value(
+    name = "freertos",
+    constraint_setting = "rtos",
+)
+
+constraint_value(
+    name = "threadx",
+    constraint_setting = "rtos",
+)
+
+constraint_value(
+    name = "embos",
+    constraint_setting = "rtos",
+)
