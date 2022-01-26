@@ -8,21 +8,21 @@ constraint_value(
 )
 
 constraint_value(
-    name = "fpv4-sp-d16",
+    name = "fpv4_sp_d16",
     constraint_setting = "fpu",
 )
 
 constraint_value(
-    name = "fpv4-d16",
+    name = "fpv4_d16",
     constraint_setting = "fpu",
 )
 
 constraint_value(
-    name = "fpv4-d32",
+    name = "fpv4_d32",
     constraint_setting = "fpu",
 )
 
 constraint_value(
-    name = "fpv5-d16",
+    name = "fpv5_d16",
     constraint_setting = "fpu",
 )
